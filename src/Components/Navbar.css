@@ -1,0 +1,73 @@
+.brand{
+    font-size: larger;
+    font-weight: 700;
+}
+.myaccount{
+    font-weight: 900;
+}
+/* Navbar.css */
+.brand {
+    font-weight: bold;
+    font-size: 1.5rem;
+  }
+  
+  .bg-body-tertiary {
+    background-color: #f8f9fa; /* Light grey background */
+  }
+  
+  .navbarScroll {
+    max-height: 250px;
+    overflow-y: auto;
+  }
+  
+  .me-auto, .ms-auto {
+    margin-right: auto;
+    margin-left: auto;
+  }
+  /* Container for the search form */
+.search-form {
+  align-items: center;
+  max-width: 300px; /* Adjust width as per your design */
+  margin-left: auto;
+}
+
+/* Styling for the search input */
+.search-form .form-control {
+  border-radius: 4px;
+  border: 1px solid #ddd;
+  padding: 8px;
+  box-shadow: none; /* Remove default Bootstrap shadow */
+}
+
+/* Styling for the search button */
+.search-button {
+  border-radius: 4px;
+  padding: 8px 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.search-button i {
+  font-size: 16px; /* Adjust icon size */
+  color: white; /* Ensure icon color matches button color */
+}
+
+/* Responsive behavior */
+@media (max-width: 768px) {
+  .search-form {
+    flex-direction: row;
+   
+  }
+
+  .search-form .form-control {
+    flex: 1;
+  }
+
+  .search-button {
+    padding: 8px;
+    flex-shrink: 0;
+  }
+}
+
+  

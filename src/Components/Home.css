@@ -1,0 +1,130 @@
+.home-page {
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .banner-section {
+    position: relative;
+    text-align: center;
+  }
+  
+  .banner-image {
+    width: 100%;
+    height: auto;
+  }
+  
+  .banner-content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    background-color: rgba(0, 0, 0, 0.4);
+    padding: 20px;
+  }
+  
+  .promotional-section {
+    padding: 40px 0;
+    text-align: center;
+  }
+  
+  .promo-card {
+    background-color: #f4f4f4;
+    padding: 20px;
+    border-radius: 8px;
+  }
+  
+  .product-section {
+    padding: 40px 0;
+  }
+  
+  .product-card {
+    margin-bottom: 20px;
+  }
+  
+  .product-card img {
+    height: 200px;
+    object-fit: cover;
+  }
+
+  .home-page {
+    text-align: center;
+  }
+  
+  .banner-section {
+    position: relative;
+    text-align: center;
+    margin-bottom: 50px;
+  }
+  
+  .banner-image {
+    width: 100%;
+    height: auto;
+  }
+  
+  .banner-content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.8);
+  }
+  
+  .promotional-section {
+    padding: 50px 0;
+    background-color: #f9f9f9;
+  }
+  
+  .promo-card {
+    text-align: left;
+    padding: 20px;
+    background-color: white;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+  }
+  
+  .product-section {
+    padding: 50px 0;
+  }
+  
+  .product-card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .product-card img {
+    height: 200px;
+    object-fit: cover;
+  }
+
+  .product-card img {
+    object-fit: cover;
+    width: 100%;
+    height: 250px; /* Adjust the height if needed */
+  }
+  
+  .banner-image {
+    width: 100%;
+    height: 400px; /* Adjust the height to fit your design */
+    object-fit: cover;
+  }
+  
+  .promoCard1 {
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+  }
+
+  .promoCard2 {
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+  }
+
+  .promoCard3 {
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+  }
+  
+  
+  
