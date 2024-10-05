@@ -40,7 +40,7 @@ const BlogPage = () => {
     return (
         <div className="blog-container">
             <header className="blog-header">
-                <h1>Organic Foods Blog</h1>
+                <h1>EcoGrocer Blog</h1>
             </header>
             <div className="blog-content">
                 <aside className="blog-sidebar">

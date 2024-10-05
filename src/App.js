@@ -40,7 +40,7 @@ function App() {
     <Router>
       <div className="app-container">
         {/* Navbar with cart items passed down */}
-        <Navbar1 title="Organic Foods" cartItems={cartItems} />
+        <Navbar1 title="EcoGrocer" cartItems={cartItems} />
 
         <div className="content">
           {/* Route configuration */}

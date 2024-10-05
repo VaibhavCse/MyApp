@@ -32,19 +32,19 @@ export default function About(props) {
                 <div className="row g-0">
                     <div className="col-md-6">
                         <div className="image-container">
-                            <img src={organicFoodImage} alt="Organic Foods" className="img-fluid rounded-start full-height" />
+                            <img src={organicFoodImage} alt="EcoGrocer" className="img-fluid rounded-start full-height" />
                         </div>
                     </div>
                     <div className="col-md-6">
                         <div className="card-body">
                             <h1 className="card-title aboutus_header">About Us</h1>
                             <p className="card-text">
-                                Welcome to <strong>Organic Foods</strong>, your trusted source for premium organic foods. 
+                                Welcome to <strong>EcoGrocer</strong>, your trusted source for premium organic foods. 
                                 We are passionate about providing you with the finest organic products that promote health, sustainability, and the well-being of our planet.
                             </p>
                             <h2 className="card-title">Our Mission</h2>
                             <p className="card-text">
-                                At <strong>Organic Foods</strong>, our mission is simple: to make high-quality organic foods accessible to everyone. 
+                                At <strong>EcoGrocer</strong>, our mission is simple: to make high-quality organic foods accessible to everyone. 
                                 We believe that eating organically isn't just a lifestyle choice but a commitment to better health, environmental sustainability, and support for ethical farming practices.
                             </p>
                         </div>
@@ -58,7 +58,7 @@ export default function About(props) {
                         <div className="card-body">
                             <h5 className="card-title">Why Choose Us?</h5>
                             <p className="card-text">
-                                At Organic Foods, we prioritize quality, transparency, and sustainability. 
+                                At EcoGrocer, we prioritize quality, transparency, and sustainability. 
                                 All our products are sourced from certified organic farms that follow strict guidelines to ensure the best quality and taste. We are the best in the category.
                             </p>
                         </div>
