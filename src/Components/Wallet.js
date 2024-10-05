@@ -1,4 +1,4 @@
-import React from 'react';
+
 import './Wallet.css'; 
 class Wallet {
     constructor(owner) {
